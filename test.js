@@ -2,4 +2,4 @@ Yaptığımız değişiklikleri karşı tarafa yani github’a göndermeden önc
 
 VSCode üzerinde yapabilmek için aşağıdaki komutu çalıştırmalıyız. Ama dikkat edin staged durumuna getirmek istediğimiz dosya ile aynı dizinde olmalısınız.
 
-xxx
+xxx xxx
